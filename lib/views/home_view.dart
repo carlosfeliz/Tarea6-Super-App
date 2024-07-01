@@ -30,7 +30,7 @@ class _HomeViewState extends State<HomeView> {
               decoration: BoxDecoration(
                 color: Colors.blue,
               ),
-              child: Text('Features', style: TextStyle(color: Colors.white, fontSize: 24)),
+              child: Text('Menú', style: TextStyle(color: Colors.white, fontSize: 24)),
             ),
             ListTile(
               title: const Text('Peticiond e Genero '),
